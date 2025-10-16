@@ -130,3 +130,39 @@ Sylvester Kormla Nyadzinnor
 
 📚 License
 This project is licensed under the MIT License.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ____________________________________________________________________________________________________________
+
+ni calculator.html
+ni calculator.css
+ni calculator.js
+
