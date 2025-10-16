@@ -166,3 +166,75 @@ ni calculator.html
 ni calculator.css
 ni calculator.js
 
+🧮 Simple Calculator
+
+This project is a basic web calculator that performs the four main arithmetic operations — addition, subtraction, multiplication, and division.
+It was developed as part of the ALX Front-End JavaScript module to demonstrate fundamental skills in HTML, CSS, and JavaScript DOM manipulation.
+
+📂 Project Structure
+ALX_Simple_Quiz/
+│
+├── calculator.html      # HTML layout of the calculator
+├── calculator.css       # Styling for layout and UI
+└── calculator.js        # JavaScript logic and event handling
+
+🚀 Features
+
+Perform Addition (+), Subtraction (-), Multiplication (×), and Division (÷)
+
+Real-time result display in the output field
+
+Input validation using parseFloat() to handle empty or invalid values
+
+Division error handling (prevents division by zero)
+
+Clean and responsive interface styled with CSS
+
+🧠 JavaScript Concepts Applied
+
+Functions: Each arithmetic operation is implemented as a separate function
+
+DOM Manipulation: Accessing and updating HTML elements dynamically
+
+Event Listeners: Detecting button clicks to trigger calculations
+
+Input Validation: Ensuring correct data types and handling invalid input
+
+DOMContentLoaded: Ensures all elements are accessible before running scripts
+
+💡 How to Run the Project
+
+Clone or download the repository:
+
+git clone https://github.com/SylvesterK-code/ALX_Simple_Quiz.git
+
+
+Navigate into the project directory:
+
+cd ALX_Simple_Quiz
+
+
+Open calculator.html in your web browser.
+
+Enter two numbers, click an operation button, and view the result instantly.
+
+🧰 Technologies Used
+
+HTML5 – for the calculator structure
+
+CSS3 – for styling and layout
+
+JavaScript (ES6) – for functionality and logic
+
+⚙️ Example Operations
+Operation	Example Input	Output
+Addition (+)	5 + 3	8
+Subtraction (-)	9 - 4	5
+Multiplication (×)	6 × 7	42
+Division (÷)	10 ÷ 2	5
+
+If division by zero occurs, the app displays:
+Error: Cannot divide by zero
+
+
+Improvement: Would you like me to add a bonus feature such as keyboard input support or a clear/reset button next?
